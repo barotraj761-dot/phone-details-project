@@ -2,3 +2,4 @@ streamlit
 pandas
 scikit-learn==1.2.2
 xgboost
+numpy<2.0.0
